@@ -30,9 +30,22 @@ By the end of class, students should be able to recall these three key takeaways
     - Worshipping others besides Him (like idols, saints, or the dead) is called shirk, the worst sin in Islam.
 
 - **He Has Beautiful Names and Perfect Attributes**
-    - Ar-Rahman (Most Merciful) 
-    - Al-Aleem (All-Knowing) 
-    - Al-Khaliq (The Creator) 
+    - 🌟 Ar-Rahmaan – The Most Merciful
+        - Ar-Rahmaan means Allah is very, very kind and loving to everyone — even if they don’t ask or don’t thank Him
+        - Imagine this: 
+            - When you're sleeping, Allah still gives you air to breathe.
+            - When you're playing, He gives you the sun, your eyes to see, and your heart to feel joy.
+        - It’s like when your mom or dad takes care of you all the time — even when you don’t say thank you — but even more! That’s Ar-Rahmaan.
+    - 🌟 Al-‘Aleem – The All-Knowing
+        - Al-‘Aleem means Allah knows everything — every little thing you do, think, or feel.
+        - Imagine this:
+            - Even if you whisper something, or just think it in your head, Allah knows it.
+            - If a tiny ant is walking in the dark under a rock… Allah knows that too!
+    - 🌟 Al-Khāliq – The Creator
+        - Al-Khāliq means Allah is the One who made everything — from the stars in the sky to the tiny bugs on the ground
+        - Imagine this:
+            - When you draw a picture, you make something — but Allah made real people, animals, trees, and planets from nothing at all!
+            - He didn’t need tools or help. He just says “Be!” and it happens. 
     - and many more.
     - We learn about Him through His names and what He tells us in the Qur’an and Sunnah.
 
