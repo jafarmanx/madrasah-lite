@@ -20,12 +20,12 @@ By the end of class, students should be able to recall these three key takeaways
 
 ### Belief in Allah
 ----------------------------------------
-- **Allah is ONE!**
 [![surah-al-ikhlas ](./images/surah-al-ikhlas.png)]((https://quran.com/112))
-*Surah Al-Ikhlas (112) summarizses this:*
+
  > "Say: He is Allah the One. Allah the Eternal. He does not beget nor is he begotten. And there is nothing like him"
 ----------------------------------------
-
+- **Allah is ONE!**
+    - *Surah Al-Ikhlas (112) summarizses this*
 - **He is the Only One Worthy of Worship**
  - Muslims pray, ask for help, and rely only on Allah.
  - Worshipping others besides Him (like idols, saints, or the dead) is called shirk, the worst sin in Islam.
