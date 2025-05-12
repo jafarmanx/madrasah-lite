@@ -57,6 +57,7 @@ By the end of class, students should be able to recall these three key takeaways
 ### ✍🏾 *Activity on Aqeedah (5 min)*
 - Activity Name: Triva time!
 - Activity Description: ask the kids any questions about Allah renforcing the concepts they just learned.
+- See the following for examples [Lesson 1 Aqeedah Triva](./activities/L1-Aqeedah-Triva.md)
 -------------------------------------
  
 ## Lesson on Seerah (15 min)
