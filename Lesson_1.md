@@ -18,8 +18,9 @@
 Overview:
 - Allah is ONE!
 - Surah Al-Ikhlas (112) summarizses this:
-"Say: He is Allah the One. Allah the Eternal. He does not beget nor is he begotten. And there is nothing like him"
-![Surah Al-Ikhlas](./images/surah-al-ikhlas-full-arabic.jpg)
+![surah-al-ikhlas](./images/surah-al-ikhlas.png)(https://quran.com/112)
+> "Say: He is Allah the One. Allah the Eternal. He does not beget nor is he begotten. And there is nothing like him"
+
 
 
 Attributes: 
