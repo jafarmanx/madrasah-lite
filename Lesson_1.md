@@ -26,21 +26,21 @@ By the end of class, students should be able to recall these three key takeaways
 - **Allah is ONE!**
     - *Surah Al-Ikhlas (112) summarizses this*
 - **He is the Only One Worthy of Worship**
- - Muslims pray, ask for help, and rely only on Allah.
- - Worshipping others besides Him (like idols, saints, or the dead) is called shirk, the worst sin in Islam.
+    - Muslims pray, ask for help, and rely only on Allah.
+    - Worshipping others besides Him (like idols, saints, or the dead) is called shirk, the worst sin in Islam.
 
 - **He Has Beautiful Names and Perfect Attributes**
- - Ar-Rahman (Most Merciful) 
- - Al-Aleem (All-Knowing) 
- - Al-Khaliq (The Creator) 
- - and many more.
- - We learn about Him through His names and what He tells us in the Qur’an and Sunnah.
+    - Ar-Rahman (Most Merciful) 
+    - Al-Aleem (All-Knowing) 
+    - Al-Khaliq (The Creator) 
+    - and many more.
+    - We learn about Him through His names and what He tells us in the Qur’an and Sunnah.
 
 - **He Created Everything and Controls Everything**
- - Allah created the heavens, the earth, and all living beings.
- -- Nothing happens except by His will.
+    - Allah created the heavens, the earth, and all living beings.
+    - Nothing happens except by His will.
 
-## Activity on Aqeedah (5 min)
+## *Activity on Aqeedah (5 min)*
 - Activity Name: Triva time!
 - Activity Description: ask the kids any questions about Allah renforcing the concepts they just learned.
 
@@ -59,13 +59,13 @@ By the end of class, students should be able to recall these three key takeaways
 - Mother: Aminah
 
 ### Who Took Care of Him?
--- Mother (Aminah) until age 6
--- Grandfather (Abdul Muttalib) until age 8
--- Uncle (Abu Talib) afterward
+- Mother (Aminah) until age 6
+- Grandfather (Abdul Muttalib) until age 8
+- Uncle (Abu Talib) afterward
 
-## Activity on Seerah (5 min)
-Activity Name: Fill in the Blanks - Worksheet
-Activity Description: A worksheet the kids will fill in related to lesson. this worksheet will show the family tree.
+## *Activity on Seerah (5 min)*
+- Activity Name: Fill in the Blanks - Worksheet
+- Activity Description: A worksheet the kids will fill in related to lesson. this worksheet will show the family tree.
 
 
 ## Lesson on Hadith/Sunnah (15 min)
@@ -81,7 +81,7 @@ Activity Description: A worksheet the kids will fill in related to lesson. this 
 
 *Source: [Iqra International Education Foundation. (n.d.). Teaching of our Prophet (Salla-Allahu 'alaihi wa sallam): A selection of Ahadith for children, elementary level (p. 22).](https://www.iqra.org/products/teachings-of-our-prophet-ahadi?_pos=1&_psq=teaching+of+our&_ss=e&_v=1.0)*
 
-## Activity on Hadith/Sunnah (15 min)
-Activity Name: Remeber me _x_ times
-Activity Description: Have the kids repeat the Hadith/Sunnah any number of times to help them get into the habit of remembering it and also ensure they understand what they are remembering 
-
+## *Activity on Hadith/Sunnah (15 min)*
+- Activity Name: Remeber me _x_ times
+- Activity Description: Have the kids repeat the Hadith/Sunnah any number of times to help them get into the habit of remembering it and also ensure they understand what they are remembering 
+<br>
