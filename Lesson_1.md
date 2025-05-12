@@ -6,7 +6,6 @@ By the end of class, students should be able to recall these three key takeaways
 - Aqeedah: The first article of faith – Belief in Allah
 - Seerah: The early childhood of the Prophet ﷺ – his birthplace, family, and tribe
 - Hadith/Sunnah: The reward for sending salutations (Salaam) upon the Prophet ﷺ
-<br>
 
 ## A Lesson on Aqeedah (15 min)
 
@@ -20,9 +19,9 @@ By the end of class, students should be able to recall these three key takeaways
 
 ### Belief in Allah
 ----------------------------------------
-[![surah-al-ikhlas ](./images/surah-al-ikhlas.png)]((https://quran.com/112))
+[![surah-al-ikhlas ](./images/surah-al-ikhlas.png)](https://quran.com/112)
 
- > "Say: He is Allah the One. Allah the Eternal. He does not beget nor is he begotten. And there is nothing like him"
+ > "Say, He is Allah the One. Allah the Eternal. He does not beget nor is he begotten. And there is nothing like him"
 ----------------------------------------
 - **Allah is ONE!**
     - *Surah Al-Ikhlas (112) summarizses this*
