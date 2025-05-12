@@ -1,13 +1,14 @@
 # Lesson 1
 
 ## Intro (5 min)
-Today's Lesson is to ensure the kids takeaways 3 at the end of the class
-- Aqeedah: The Articles of faith - the Belief of Allah 
-- Seerah: Early childhood - Location and Family/Tribe
-- Hadith/Sunnah: Reward for saying Salaam on the Prophet(PBUH)
+Today's Lesson Objectives:
+By the end of class, students should be able to recall these three key takeaways:
+- Aqeedah: The first article of faith – Belief in Allah
+- Seerah: The early childhood of the Prophet ﷺ – his birthplace, family, and tribe
+- Hadith/Sunnah: The reward for sending salutations (Salaam) upon the Prophet ﷺ
+<br>
 
-
-## Lesson on Aqeedah (15 min)
+## A Lesson on Aqeedah (15 min)
 
 ### 6 Articles of Faith Overview
 - **Belief in Allah**
@@ -18,33 +19,33 @@ Today's Lesson is to ensure the kids takeaways 3 at the end of the class
 - Belief in Divine Decree (Qadar)
 
 ### Belief in Allah
-
-Overview:
+----------------------------------------
 - **Allah is ONE!**
----------------------------------------
--- Surah Al-Ikhlas (112) summarizses this:
-![surah-al-ikhlas](./images/surah-al-ikhlas.png)(https://quran.com/112)
+[![surah-al-ikhlas ](./images/surah-al-ikhlas.png)]((https://quran.com/112))
+*Surah Al-Ikhlas (112) summarizses this:*
  > "Say: He is Allah the One. Allah the Eternal. He does not beget nor is he begotten. And there is nothing like him"
 ----------------------------------------
+
 - **He is the Only One Worthy of Worship**
--- Muslims pray, ask for help, and rely only on Allah.
--- Worshipping others besides Him (like idols, saints, or the dead) is called shirk, the worst sin in Islam.
+ - Muslims pray, ask for help, and rely only on Allah.
+ - Worshipping others besides Him (like idols, saints, or the dead) is called shirk, the worst sin in Islam.
 
 - **He Has Beautiful Names and Perfect Attributes**
--- Ar-Rahman (Most Merciful) 
--- Al-Aleem (All-Knowing) 
--- Al-Khaliq (The Creator) 
--- and many more.
--- We learn about Him through His names and what He tells us in the Qur’an and Sunnah.
+ - Ar-Rahman (Most Merciful) 
+ - Al-Aleem (All-Knowing) 
+ - Al-Khaliq (The Creator) 
+ - and many more.
+ - We learn about Him through His names and what He tells us in the Qur’an and Sunnah.
 
 - **He Created Everything and Controls Everything**
--- Allah created the heavens, the earth, and all living beings.
--- Nothing happens except by His will.
+ - Allah created the heavens, the earth, and all living beings.
+ -- Nothing happens except by His will.
 
 ## Activity on Aqeedah (5 min)
-Triva time! ask the kids any questions about Allah renforcing the concepts they just learned
+- Activity Name: Triva time!
+- Activity Description: ask the kids any questions about Allah renforcing the concepts they just learned.
 
-
+ 
 ## Lesson on Seerah (15 min)
 
 ### When and Where Was He Born?
