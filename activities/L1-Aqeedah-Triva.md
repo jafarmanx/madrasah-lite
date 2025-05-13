@@ -1,7 +1,7 @@
 # Activity Name: Triva time!
 Activity Description: ask the kids any questions about Allah renforcing the concepts they just learned.
 
-### Trivia Questions: Belief in Allah (Aqeedah)
+## Trivia Questions: Belief in Allah (Aqeedah)
 
 1. Who is the only One worthy of our worship?
 2. What does it mean when we say Allah is "One"?

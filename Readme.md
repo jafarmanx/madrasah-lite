@@ -1,11 +1,32 @@
-## Books
+# Weekend Islamic Studies for Kids
 
---------------------------------
-Title: Teachings of Our Prophet: Ahadith for the Children 
-ISBN-13: 9781563160837
-Pages: 82
-Size: 9 X 6 Inches
-Year Published: 2019
-Publisher: IQRA’ International Educational Foundation
-Link: https://www.iqra.org/products/teachings-of-our-prophet-ahadi?_pos=1&_psq=teaching+of+our&_ss=e&_v=1.0
---------------------------------
+Welcome! This project provides lesson plans, activities, and resources for weekend Islamic classes for children (ages 7–10). The focus is on foundational beliefs, stories from the life of the Prophet ﷺ, and interactive learning.
+
+## Table of Contents
+- [Lessons Overview](#lessons-overview)
+- [Activities](#activities)
+- [Simplified Library](#simplified-library)
+- [Contributing](#contributing)
+
+## Lessons Overview
+- lesson plans are in the [`lessons`](./lessons/) folder.
+- Each lesson covers:
+  - **Aqeedah:**  Articals of Faith and matters of beleife
+  - **Seerah:**   Story of the Prophets
+  - **Hadith/Sunnah:**  Sayings and actions of the prophet (pbuh)
+- Each lesson includes objectives, teaching points, and suggested activities.
+- Visual aids and external resources are referenced for interactive learning.
+
+## Activities
+- Find ready-to-use activities in the [`activities/`](./activities/) folder.
+  - Example: [`L1-Aqeedah-Triva.md`](./activities/L1-Aqeedah-Triva.md) (trivia questions and answer key)
+- Activities are designed to reinforce lesson concepts in a fun way.
+
+
+## Simplified Library
+- The [`simplified_library/`](./simplified_library/) folder contains simplified summaries and outlines from classical Islamic texts.
+- These are for teachers or advanced students to deepen understanding and enrich lessons.
+
+## Contributing
+We welcome contributions!
+If you have ideas for new lessons, activities, or improvements, please open a pull request or submit an issue.
