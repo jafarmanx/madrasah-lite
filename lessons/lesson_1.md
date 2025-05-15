@@ -19,7 +19,7 @@ By the end of class, students should be able to recall these three key takeaways
 
 ### Belief in Allah
 
-[![surah-al-ikhlas ](./images/surah-al-ikhlas.png)](https://quran.com/112)
+[![surah-al-ikhlas ](../images/surah-al-ikhlas.png)](https://quran.com/112)
 
  > "Say, He is Allah the One. Allah the Eternal. He does not beget nor is he begotten. And there is nothing like him"
 
@@ -57,7 +57,7 @@ By the end of class, students should be able to recall these three key takeaways
 ### ✍🏾 *Activity on Aqeedah (5 min)*
 - Activity Name: Triva time!
 - Activity Description: ask the kids any questions about Allah renforcing the concepts they just learned.
-- See the following for examples [Lesson 1 Aqeedah Triva](./activities/L1-Aqeedah-Triva.md)
+- See the following for examples [Lesson 1 Aqeedah Triva](../activities/L1-Aqeedah-Triva.md)
 -------------------------------------
  
 ## Lesson on Seerah (15 min)
@@ -99,7 +99,7 @@ By the end of class, students should be able to recall these three key takeaways
 
 -------------------------------------
 ### ✍🏾 *Activity on Hadith/Sunnah (15 min)*
-- Activity Name: Remeber me _x_ times
+- Activity Name: Remeber me many times
 - Activity Description: Have the kids repeat the Hadith/Sunnah any number of times to help them get into the habit of remembering it and also ensure they understand what they are remembering 
 -------------------------------------
 <br>
