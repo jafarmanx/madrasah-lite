@@ -86,7 +86,7 @@ By the end of class, students should be able to recall these three key takeaways
 
 ## Lesson on Hadith/Sunnah (15 min)
 
-![Sahih_muslim_408](./images/shahih_mulsim_408.jpg)
+![Sahih_muslim_408](../images/shahih_mulsim_408.jpg)
 
 >Abu Huraira reported: The Messenger of Allah (ﷺ) said: He who blesses me once, Allah would bless him ten times.
 
@@ -96,6 +96,9 @@ By the end of class, students should be able to recall these three key takeaways
 >"Allah loves His Prophet (S), and He loves those who love His Prophet (S). When we send Salam to Rasulullah (S), Allah is pleased and rewards us with His blessing ten times."
 
 *Source: [Iqra International Education Foundation. (n.d.). Teaching of our Prophet (Salla-Allahu 'alaihi wa sallam): A selection of Ahadith for children, elementary level (p. 22).](https://www.iqra.org/products/teachings-of-our-prophet-ahadi?_pos=1&_psq=teaching+of+our&_ss=e&_v=1.0)*
+
+
+![SallaluahiwaSalaam](../images/SallalualhiwaSalaam.svg)
 
 -------------------------------------
 ### ✍🏾 *Activity on Hadith/Sunnah (15 min)*
